@@ -11,7 +11,7 @@
   },
   "type": "module",
   "bin": {
-    "calculate": "index.js"
+    "calculator": "index.js"
   },
   "keywords": [],
   "author": "",
